@@ -2,10 +2,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti info bot dibawah ini
-global.botName = "Xtree 2.9"
-global.ownerName = "BLANK"
-global.botNumber = "6289510342073"
-global.devNumber = ["6282230049011"]
+global.botName = "deathtree 2.9"
+global.ownerName = "DEATH"
+global.botNumber = "15489945301"
+global.devNumber = ["15489945301"]
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
